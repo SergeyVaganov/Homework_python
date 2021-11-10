@@ -33,3 +33,5 @@ while yesNo:
     yes = input('Нажмите клавишу "у" если хотите продолжить ввод данных - ')
     if yes != 'y':
         yesNo = False
+
+    print('aaaaaaaaaaaaaaaaa')
